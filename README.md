@@ -1,6 +1,4 @@
 ### Hi there I'm Steven Nuñez 👋
 
-- 🔭 I’m currently working on Classroom here at GitHub
+- 🔭 I’m currently working on stabilizing services at GitHub :octocat:
 - 💬 Ask me about Elixir, 🚨 I won't shut up 🚨
-- 📫 How to reach me: 🐦 [@_StevenNunez](https://twitter.com/_StevenNunez)
-- 😄 Pronouns: he/him
